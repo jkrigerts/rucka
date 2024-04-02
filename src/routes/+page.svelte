@@ -11,7 +11,7 @@
   <div class="inner-content">
     <div class="header-distributer">
       <h1>Ruckas muiža ielūdz!</h1>
-      <h2>2024. gada MARTA <strong>PASĀKUMU KALENDĀRS</strong></h2>
+      <h2>2024. gada APRĪĻA <strong>PASĀKUMU KALENDĀRS</strong></h2>
     </div>
     <p class="explanation">Uzziniet vairāk, izvēloties krāsaino datumu</p>
     <table>

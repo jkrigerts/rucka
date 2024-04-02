@@ -1,0 +1,471 @@
+[
+  [
+    {
+      "date": 26,
+      "month": "Februāris",
+      "showMonth": true,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 27,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 28,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 29,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 1,
+      "month": "Marts",
+      "showMonth": true,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Izrāde",
+          "time": "18:30",
+          "title": "Sieviete ar dzeltenām brillēm",
+          "titleLong": "",
+          "info": "Kopā ar Regīnu Devīti",
+          "infoLong": "Regīnas Devītes monoizrāde ar komēdijas elementiem \"Sieviete ar dzeltenām brillēm\"",
+          "price": "Dalības maksa: 15 EUR",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "date": 2,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērniem",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Dari un radi kopā!",
+          "titleLong": "",
+          "info": "Kopā ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Dari un radi kopā!\" kopā ar aktrisi Inutu Briedi. Dziedāsim, rotaļāsimies un radīsim kopā! 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 3,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 4,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 5,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Skolniekiem",
+          "time": "17:30",
+          "timeLong": "",
+          "title": "Harija Potera fanu klubs",
+          "titleLong": "",
+          "info": "Kīno vakars ar popkornu",
+          "infoLong": "Harija Potera fanu kluba kino vakars ar popkornu skolas vecuma bērniem.",
+          "price": "Dalības maksa: 5 EUR (kluba biedriem: 4 EUR)",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 6,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 7,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Lekcija",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Par un ap tomātiem",
+          "titleLong": "",
+          "info": "Andra Mihaļova lekcija",
+          "infoLong": "Andra Mihaļova lekcija lekcija par tomātiem.",
+          "price": "Ieeja par ziedojumu",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "date": 8,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Kultūra",
+          "time": "18:00",
+          "timeLong": "",
+          "title": "Bez skaistām sievietēm nav dzīvot vērts!",
+          "titleLong": "",
+          "info": "Ar Cēsu teātra aktieriem",
+          "infoLong": "Sieviešu dienas dzejas vakars muižā. Dzejiski, muzikāli izklaidējoša programma kopā ar Cēsu teātra aktieriem Juri Krūzi un Jāni Gabrānu.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "date": 9,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērniem",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Dari un radi kopā!",
+          "titleLong": "",
+          "info": "Kopā ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Dari un radi kopā!\" kopā ar aktrisi Inutu Briedi. Dziedāsim, rotaļāsimies un radīsim kopā! 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 10,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 11,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 12,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 13,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Meistarklase",
+          "time": "18:00 - 22:00",
+          "timeLong": "",
+          "title": "Punktiņmandalas veidošana iesācējiem",
+          "titleLong": "",
+          "info": "Sarmītes Eidukas vadībā",
+          "infoLong": "Punktiņmandalas veidošana iesācējiem Sarmītes Eidukas vadībā. Cenā iekļauti materiāli un siltie dzērieni.",
+          "price": "Dalības maksa: 25 EUR",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 14,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Lekciju cikls",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Kultūrvēsture caur rakstību",
+          "titleLong": "",
+          "info": "Vada Astra Reine",
+          "infoLong": "Nodarbību vada māksliniece Astra Reine.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 15,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Kultūra",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Dzejnieks. Dzeja. Dziesma.",
+          "titleLong": "",
+          "info": "Kopā ar Elīnu Riemeri un Lāsmu Vasmani",
+          "infoLong": "Muzikālas sarunas ar Elīnu Riemeri un Lāsmu Vasmani.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 16,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērniem",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Tutas lietu Lapsas un Feneka gatavošana",
+          "titleLong": "",
+          "info": "Kopā ar Baibu Leitenu",
+          "infoLong": "Bērnu radošas darbošanās rīts kopā ar \"Zīmētprieks\" mākslinieci Baibu Leitenu. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 17,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 18,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 19,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Skolniekiem",
+          "time": "17:30",
+          "timeLong": "",
+          "title": "Harija Potera fanu klubs",
+          "titleLong": "",
+          "info": "Tikšanās un darbošanās kopā",
+          "infoLong": "Harija Potera fanu kluba tikšanās skolas vecuma bērniem.",
+          "price": "Dalības maksa: 7 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 20,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Kultūra",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Pie Kaķīša dzirnavām viesojoties",
+          "titleLong": "",
+          "info": "Kopā ar Inutu Briedi",
+          "infoLong": "Izklaidējošs stāsts par un ap dzirnavām. Kopā ar aktrisi Inutu Briedi.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 21,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Lekciju cikls",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Kultūrvēsture caur rakstību",
+          "titleLong": "",
+          "info": "Vada Astra Reine",
+          "infoLong": "Nodarbību vada lektore, māksliniece Astra Reine.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 22,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": [
+        {
+          "type": "Kultūra",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Lieldienas gaidot",
+          "titleLong": "",
+          "info": "Ieva Lapšāne ar ģimeni",
+          "infoLong": "Koncerts Lieldienu gaisotnē, kurā uzstājas Ieva Lapšāne ar ģimeni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 23,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 2,
+      "events": [
+        {
+          "type": "Bērniem",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Kroņu gatavošana",
+          "titleLong": "",
+          "info": "Kopā ar Baibu Leitenu",
+          "infoLong": "Bērnu radošas darbošanās rīts kopā ar \"Zīmētprieks\" mākslinieci Baibu Leitenu. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        },
+        {
+          "type": "Meistarklase",
+          "time": "11:30 - 16:30",
+          "timeLong": "",
+          "title": "Lielformāta gleznošana",
+          "titleLong": "",
+          "info": "Baibas Feoktistovas vadībā",
+          "infoLong": "Lielformāta gleznošanas meistarklase Baibas Feoktistovas vadībā. Cenā iekļauti materiāli un siltie dzērieni.",
+          "price": "Dalības maksa: 95 EUR",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 24,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 25,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 26,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 27,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 28,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Meistarklase",
+          "time": "18:00 - 22:00",
+          "timeLong": "",
+          "title": "Punktiņmandalas veidošana uz audekla",
+          "titleLong": "",
+          "info": "Sarmītes Eidukas vadībā",
+          "infoLong": "Punktiņmandalas veidošana uz audeklā (20X20) Sarmītes Eidukas vadībā. Cenā iekļauti materiāli un siltie dzērieni.",
+          "price": "Dalības maksa: 30 EUR",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 29,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 30,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērniem",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Dari un radi kopā!",
+          "titleLong": "",
+          "info": "Kopā ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Dari un radi kopā!\" kopā ar aktrisi Inutu Briedi. Dziedāsim, rotaļāsimies un radīsim kopā! 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 31,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ]
+]
