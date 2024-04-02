@@ -166,12 +166,12 @@
       "events": [
         {
           "type": "Bērniem",
-          "time": "11:00",
-          "timeLong": "",
-          "title": "Muzikālais bērnu rīts",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Zīmētprieks. Troļļu krāsošana",
           "titleLong": "",
-          "info": "Kopā ar Montu",
-          "infoLong": "Muzikālais bērnu rīts 3 - 6 gadus veciem bērniem kopā ar Montu.",
+          "info": "Kopā ar Baibu Leitenu",
+          "infoLong": "Bērnu radošas darbošanās rīts kopā ar \"Zīmētprieks\" mākslinieci Baibu Leitenu. Gleznošanas nodarbībās šoreiz krāsosim multiplikācijas tēlus Troļļus! 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
           "price": "Dalības maksa: 7 EUR",
           "color": "yellow"
         }
@@ -264,12 +264,12 @@
       "events": [
         {
           "type": "Bērniem",
-          "time": "10:00 / 11:30",
-          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
-          "title": "Zīmētprieks",
+          "time": "11:00 / 13:00",
+          "timeLong": "",
+          "title": "Leļļu izrāde \"Ceļojums\"",
           "titleLong": "",
-          "info": "Kopā ar Baibu Leitenu",
-          "infoLong": "Bērnu radošas darbošanās rīts kopā ar \"Zīmētprieks\" mākslinieci Baibu Leitenu. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "info": "Kopā ar leļļu teātra studiju \"Ilze\"",
+          "infoLong": "Improvizācijas leļļu teātra studijas \"Ilze\" izrāde \"Ceļojums\"  bērniem un vecākiem!",
           "price": "Dalības maksa: 7 EUR",
           "color": "yellow"
         }
